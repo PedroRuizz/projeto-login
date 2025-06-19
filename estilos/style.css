@@ -57,3 +57,16 @@ section#login > div#formulario {
     padding: 10px;
 
 }
+
+div#formulario > h1 {
+    font-size: 2em;
+}
+
+div#fomulario > p {
+    font-size: 0.8em;
+}
+
+input {
+    width: 150px;
+    padding-left: 5px;
+}
